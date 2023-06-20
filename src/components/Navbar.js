@@ -26,28 +26,34 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
           >
             <li>
-              <a>Item 1</a>
+              <a>Home</a>
             </li>
             <li>
-              <a>Item 2</a>
+              <a>Become Tutor</a>
             </li>
             <li>
-              <a>Item 3</a>
+              <a>About</a>
+            </li>
+            <li>
+              <a>Contact us</a>
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+        <a className="btn btn-ghost normal-case text-xl">Haleta</a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <a>Item 1</a>
+            <a>Home</a>
           </li>
           <li>
-            <a>Item 2</a>
+            <a>Become Tutor</a>
           </li>
           <li>
-            <a>Item 3</a>
+            <a>About</a>
+          </li>
+          <li>
+            <a>Contact us</a>
           </li>
         </ul>
       </div>
