@@ -9,11 +9,11 @@ import Testimo from './components/Testimonials.js';
 import Footer from './components/footer.js';
 function App() {
   return (
-    <div>
+    <div className="bg-slate-100">
       <Navbar />
       <Hero />
       <Hw />
-      <div className="flex flex-col w-full bg-slate-800">
+      <div className="flex flex-col w-full bg-slate-100">
         <div className="divider"></div>
       </div>
       <Wh />

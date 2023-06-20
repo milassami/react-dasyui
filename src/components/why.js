@@ -3,7 +3,7 @@ import React from 'react';
 const Wh = () => {
   return (
     // <!-- Icon Blocks -->
-    <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto bg-slate-800">
+    <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto bg-slate-100">
       {/* <!-- Grid --> */}
       <h2 class="text-3xl text-gray-800 font-bold lg:text-4xl dark:text-white">
         How we work?
