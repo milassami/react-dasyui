@@ -5,6 +5,7 @@ import Hero from './components/Hero.js';
 import Hw from './components/how.js';
 import Wh from './components/why.js';
 import JoinUs from './components/Join.js';
+import Testimo from './components/Testimonials.js';
 import Footer from './components/footer.js';
 function App() {
   return (
@@ -12,8 +13,12 @@ function App() {
       <Navbar />
       <Hero />
       <Hw />
+      <div className="flex flex-col w-full">
+        <div className="divider"></div>
+      </div>
       <Wh />
       <JoinUs />
+      <Testimo />
       <Footer />
     </div>
   );
