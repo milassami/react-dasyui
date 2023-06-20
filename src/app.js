@@ -13,7 +13,7 @@ function App() {
       <Navbar />
       <Hero />
       <Hw />
-      <div className="flex flex-col w-full">
+      <div className="flex flex-col w-full bg-slate-800">
         <div className="divider"></div>
       </div>
       <Wh />
